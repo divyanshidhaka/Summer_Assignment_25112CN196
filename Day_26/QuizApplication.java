@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
-// public class QuizApplication {
-
 class Question {
     private String questionText;
     private String[] options;
@@ -124,4 +121,3 @@ public class QuizApplication {
         scanner.close();
     }
 }
-// }
